@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahan210
-- 👀 I’m interested in Frontend Development
+- 👀 I’m am a Frontend Development
 - 🌱 I’m currently learning MERN Stack
 - - 💞️ I’m looking to collaborate on Exciting projects
 - 📫 How to reach me mohammedshahan210@gmail.com
