@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahan210
-- 👀 I’m am a Frontend Development
 - 🌱 I’m currently a MERN Stack Developer
+- 👀 To conquer Next.js
 - - 💞️ I’m looking to collaborate on Exciting projects
 - 📫 reach me at mohammedshahan210@gmail.com
 
